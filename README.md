@@ -26,6 +26,8 @@ New Era University
 ### Programming
 - Java
 - JavaScript
+- Python
+- c++
 
 ### Databases
 - IBM DB2 Cloud
