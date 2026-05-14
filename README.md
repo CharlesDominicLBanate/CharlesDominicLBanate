@@ -18,8 +18,8 @@ New Era University
 
 ## Certifications
 - [NoSQL and DBaaS 101](https://your-certificate-link-here)
-- (https://www.sololearn.com/certificates/CC-OPIFTHXH)
-- https://www.mindluster.com/student/certificate/d62cfaf0
+- [Data Analytics with Ai](https://www.sololearn.com/certificates/CC-OPIFTHXH)
+- [Responsive Web Design]https://www.mindluster.com/student/certificate/d62cfaf0
 
 ---
 
