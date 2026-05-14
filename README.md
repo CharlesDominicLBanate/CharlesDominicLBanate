@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="profile.jpg" alt="Charles Dominic Banate" width="180"/>
-</p>
-
 # Hi there, I'm Charles Dominic Banate 👋
 
 ## About Me
@@ -38,3 +34,8 @@ New Era University
 - Jaspersoft Studio
 - Eclipse
 - HTML
+
+---
+
+## Reach Me At
+- **Email:** charlesdominic.banate@neu.edu.ph
