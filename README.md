@@ -1,7 +1,8 @@
 # Hi there, I'm Charles Dominic Banate 👋
 
 ## About Me
-I am Charles Dominic Banate, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
+I am Charles Dominic Banate, an aspiring frontend designer with a passion for coding and database management. I enjoy transforming ideas into visually appealing and user-friendly digital experiences while solving complex problems with creative and efficient solutions. My journey in technology began when I pursued the BS Information Technology program, where I developed a strong foundation in programming, web development, and system design. Driven by curiosity and creativity, I continuously strive to enhance my skills in frontend development and modern UI/UX design.
+
 
 ---
 
