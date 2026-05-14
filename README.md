@@ -1,16 +1,39 @@
-## Hi there 👋
+<p align="center">
+  <img src="profile.jpg" alt="Charles Dominic Banate" width="180"/>
+</p>
 
-<!--
-**CharlesDominicLBanate/CharlesDominicLBanate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Charles Dominic Banate 👋
 
-Here are some ideas to get you started:
+## About Me
+I am Charles Dominic Banate, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Education
+**Bachelor of Science in Information Technology**  
+New Era University  
+2021 – Present  
+
+---
+
+## Certifications
+- [NoSQL and DBaaS 101](https://your-certificate-link-here)
+- (https://www.sololearn.com/certificates/CC-OPIFTHXH)
+- https://www.mindluster.com/student/certificate/d62cfaf0
+
+---
+
+## Skill Sets
+
+### Programming
+- Java
+- JavaScript
+
+### Databases
+- IBM DB2 Cloud
+
+### Tools
+- Lucidchart
+- Jaspersoft Studio
+- Eclipse
+- HTML
