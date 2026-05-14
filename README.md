@@ -28,7 +28,7 @@ New Era University
 - JavaScript
 - Python
 - c++
--PHP
+- PHP
 
 ### Databases
 - IBM DB2 Cloud
